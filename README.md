@@ -86,7 +86,7 @@ Addressing global warming requires a multifaceted approach that combines innovat
 ## EN-ROADS Simulation
 Below is an image of the EN-ROADS simulation setup used in this project. The simulation models the impact of various interventions (e.g., carbon tax, renewable energy subsidies) on global temperature rise.
 
-![EN-ROADS Simulation] ![Image](https://github.com/user-attachments/assets/e20155f0-7d24-44f5-9511-ea22104979b0) 
+![Image](https://github.com/user-attachments/assets/e20155f0-7d24-44f5-9511-ea22104979b0) 
 *Figure 1: EN-ROADS Simulation Setup*
 
 ---
