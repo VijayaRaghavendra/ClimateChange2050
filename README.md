@@ -93,10 +93,7 @@ Below is an image of the EN-ROADS simulation setup used in this project. The sim
 
 ## Excel Files
 All statistical results and analyses are available in the following Excel files:
-1. [Linear Regression Analysis](data/linear_regression.xlsx)
-2. [Probability and Statistics](data/probability_stats.xlsx)
-3. [Sensitivity Analysis](data/sensitivity_analysis.xlsx)
-4. [Decision Analysis](data/decision_analysis.xlsx)
+1. [My Complete Analysis](https://github.com/user-attachments/files/18762031/Climate.Change.2100.xlsx)
 
 Download these files to explore the detailed results and methodologies used in the project.
 
